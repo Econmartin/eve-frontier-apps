@@ -18,5 +18,9 @@
   {
     "url": "https://evefrontier.space/finance",
     "tags": ["dapp"]
+  },
+  {
+    "url": "https://github.com/Ravencraft-Labs/powerlay-frontier",
+    "tags": ["dapp", "overlay", "macos", "windows"]
   }
 ]
