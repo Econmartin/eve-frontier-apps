@@ -53,7 +53,7 @@ That's it. Once reviewed and merged your app will appear in the directory automa
 
 ## Tags
 
-Tags are optional. The only supported tag right now is `dapp` — use it if your app is a decentralised app running on the Eve Frontier smart contract layer.
+Tags are optional. The only supported tag right now is `dapp` — use it if your app is a decentralised app running on the Eve Frontier smart contract layer and is accessible through a [Smart Assembly](https://docs.evefrontier.com/smart-assemblies/introduction) .
 
 More tags will be added as the directory grows.
 
