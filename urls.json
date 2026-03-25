@@ -17,10 +17,22 @@
   },
   {
     "url": "https://evefrontier.space/finance",
-    "tags": ["dapp"]
+    "tags": [
+      "dapp"
+    ]
   },
   {
     "url": "https://github.com/Ravencraft-Labs/powerlay-frontier",
+    "tags": []
+  },
+  {
+    "url": "https://thewatchtower.xyz",
+    "tags": [
+      "dapp"
+    ]
+  },
+  {
+    "url": "https://monolith-evefrontier.vercel.app",
     "tags": []
   }
 ]
