@@ -24,7 +24,15 @@
     "tags": []
   },
   {
-    "url": "https://ef-industry.tacombel.eu",
+    "url": "https://thewatchtower.xyz",
+    "tags": ["dapp"]
+  },
+  {
+    "url": "https://monolith-evefrontier.vercel.app",
     "tags": []
+  },
+  { 
+    "url": "https://ef-industry.tacombel.eu",
+    "tags: []
   }
 ]
