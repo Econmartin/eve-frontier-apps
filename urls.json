@@ -17,9 +17,7 @@
   },
   {
     "url": "https://evefrontier.space/finance",
-    "tags": [
-      "dapp"
-    ]
+    "tags": ["dapp"]
   },
   {
     "url": "https://github.com/Ravencraft-Labs/powerlay-frontier",
@@ -27,12 +25,14 @@
   },
   {
     "url": "https://thewatchtower.xyz",
-    "tags": [
-      "dapp"
-    ]
+    "tags": ["dapp"]
   },
   {
     "url": "https://monolith-evefrontier.vercel.app",
     "tags": []
+  },
+  { 
+    "url": "https://ef-industry.tacombel.eu",
+    "tags: []
   }
 ]
