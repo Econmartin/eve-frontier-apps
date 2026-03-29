@@ -50,5 +50,17 @@
   {
     "url": "https://themop.dev/",
     "tags":["dapp"]
+  },
+  {
+    "url": "https://frontier-flow.scetrov.live",
+    "tags": []
+  },
+  {
+    "url": "https://frontier.scetrov.live",
+    "tags": []
+  },
+  {
+    "url": "https://github.com/Scetrov/sui-test-wallet",
+    "tags": []
   }
 ]
