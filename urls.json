@@ -34,5 +34,9 @@
   { 
     "url": "https://ef-industry.tacombel.eu",
     "tags": []
+  },
+  {
+    "url": "https://evefrontier.space/directory",
+    "tags":["dapp"]
   }
 ]
