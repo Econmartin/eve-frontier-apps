@@ -74,5 +74,9 @@
   {
     "url": "https://github.com/Aloim/Bazar",
     "tags":["dapp"]
+  },
+  {
+    "url": "https://eve-frontier.vercel.app",
+    "tags":["dapp"]
   }
 ]
