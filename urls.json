@@ -70,5 +70,9 @@
   {
     "url": "https://evefrontier-tool.xyz/sweepstakes",
     "tags":["dapp"]
+  },
+  {
+    "url": "https://eve-frontier.vercel.app",
+    "tags":["dapp"]
   }
 ]
